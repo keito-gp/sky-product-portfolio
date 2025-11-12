@@ -1,6 +1,6 @@
 // src/components/ProductList.tsx
 
-import React, { useState } from "react";
+
 import ProductCard from "./ProductCard";
 import products from "../data/products";
 

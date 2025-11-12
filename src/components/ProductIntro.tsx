@@ -1,6 +1,6 @@
 // src/components/ProductIntro.tsx
 
-import React from "react";
+
 import skyseaConsoleImage from "../assets/skysea_console.jpg"; // 画像をインポート
 
 function ProductIntro() {

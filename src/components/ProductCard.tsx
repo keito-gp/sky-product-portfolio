@@ -1,4 +1,4 @@
-import React from "react";
+
 import { Product } from "../data/products"; // Productインターフェースをインポート
 
 // ProductCardコンポーネントが受け取るpropsの型定義

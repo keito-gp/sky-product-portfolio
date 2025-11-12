@@ -1,4 +1,4 @@
-import React from "react";
+
 import Header from "./components/Header"; // Headerコンポーネントをインポート
 import Footer from "./components/Footer"; // Footerコンポーネントをインポート
 import ProductList from "./components/ProductList"; // ProductListコンポーネントをインポート
